@@ -1,0 +1,12 @@
+
+Path   : Microsoft.PowerShell.Core\FileSystem::C:\Projects\df-mod3-sdm\3-Evidence
+Owner  : BUILTIN\Administrators
+Group  : LORDOFTHEFILES\dmaso
+Access : BUILTIN\Administrators Allow  FullControl
+         NT AUTHORITY\SYSTEM Allow  FullControl
+         BUILTIN\Users Allow  ReadAndExecute, Synchronize
+         NT AUTHORITY\Authenticated Users Allow  Modify, Synchronize
+         NT AUTHORITY\Authenticated Users Allow  -536805376
+Audit  : 
+Sddl   : O:BAG:S-1-5-21-2373312607-2236687576-3519042675-1003D:AI(A;OICIID;FA;;;BA)(A;OICIID;FA;;;SY)(A;OICIID;0x1200a9;;;BU)(A;ID;0x1301bf;;;AU)(A;OICIIOID;SDGXGWGR;;;AU)
+
